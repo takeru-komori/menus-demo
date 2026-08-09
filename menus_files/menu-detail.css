@@ -747,8 +747,10 @@
 .topics__title {
     align-items: center;
     display: flex;
+    /*
     font-family: kepler-std-condensed-display, serif;
-    font-size: 130px;
+    */
+    font-size: 100px;
     font-style: italic;
     font-weight: 300;
     gap: 17px;
