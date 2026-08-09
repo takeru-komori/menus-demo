@@ -761,7 +761,7 @@
 
 @media (max-width:767px) {
     .topics__title {
-        font-size: 85px;
+        font-size: 50px;
         gap: 8px;
         letter-spacing: -2.6px;
         line-height: 53px;
@@ -917,7 +917,9 @@
 }
 
 .topics-card .lineup__title {
+    
     border-bottom: 1px solid var(--primary-color);
+    
     padding: 16px 13px 10px
 }
 
